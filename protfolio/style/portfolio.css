@@ -52,3 +52,25 @@ nav a {
     color: #68635f;
 
 }
+
+
+/* header Style */
+
+.header{
+
+    background-color: #fff8f3;
+
+}
+.banner{
+
+    padding: 30px 30px 30px 150px;
+    display: flex;
+}
+
+
+.banner.profile-pic{
+
+width: 10000px;
+padding: 10px;
+margin: -30px;
+}
